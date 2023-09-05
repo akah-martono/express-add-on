@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Express Add On\n"
+"POT-Creation-Date: 2023-02-21 15:46+0700\n"
+"PO-Revision-Date: 2023-02-21 15:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: Vaksin https://wp.vaks.in\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/setup-page-factory.php:22 app/setup-page-factory.php:37
+msgid "Setup"
+msgstr "Setup"
+
+#: app/setup-page-factory.php:39
+msgid "Phone Display Format"
+msgstr "Format Tampilan No. Telp"
+
+#: app/setup-page-factory.php:63
+#, php-format
+msgid "Activate %s module"
+msgstr "Aktifkan module %s"
+
+#: modules/contact/admin/contact-page.php:23
+msgid "Contact"
+msgstr "Kontak"
+
+#: modules/contact/admin/contact-page.php:41
+msgid "Contact Detail"
+msgstr "Detail Kontak"
+
+#: modules/contact/admin/contact-page.php:44
+msgid "Phone"
+msgstr "No. Telp"
+
+#: modules/contact/admin/contact-page.php:45
+msgid "Fill in with the complete telephone number e.g. +6281220003131"
+msgstr "Isi dengan nomor telepon lengkap, misalnya +6281220003131"
+
+#: modules/contact/admin/contact-page.php:50
+#: modules/team-member/team-member-module.php:146
+msgid "Email"
+msgstr "Email"
+
+#: modules/contact/admin/contact-page.php:55 modules/job/job-module.php:170
+msgid "Address"
+msgstr "Alamat"
+
+#: modules/contact/admin/contact-page.php:60
+msgid "Google Business Profile Name"
+msgstr "Nama Google Profil Bisnis"
+
+#: modules/contact/admin/contact-page.php:68
+msgid "Social Media"
+msgstr "Media Sosial"
+
+#: modules/contact/admin/contact-page.php:71
+#: modules/team-member/team-member-module.php:159
+msgid "Facebook URL"
+msgstr "Link Facebook"
+
+#: modules/contact/admin/contact-page.php:76
+#: modules/team-member/team-member-module.php:163
+msgid "Instagram URL"
+msgstr "Link Instagram"
+
+#: modules/contact/admin/contact-page.php:81
+#: modules/team-member/team-member-module.php:167
+msgid "Twitter URL"
+msgstr "Link Twitter"
+
+#: modules/contact/admin/contact-page.php:86
+#: modules/team-member/team-member-module.php:171
+msgid "Youtube URL"
+msgstr "Link Youtube"
+
+#: modules/contact/admin/contact-page.php:91
+#: modules/team-member/team-member-module.php:175
+msgid "LinkedIn URL"
+msgstr "Link LinkedIn"
+
+#: modules/job/job-module.php:58
+msgid "Jobs"
+msgstr "Jobs"
+
+#: modules/job/job-module.php:59 modules/job/job-module.php:60
+msgid "Job"
+msgstr "Job"
+
+#: modules/job/job-module.php:107
+msgid "Job Detail"
+msgstr "Job Detail"
+
+#: modules/job/job-module.php:110
+msgid "Valid Through"
+msgstr "Valid Through"
+
+#: modules/job/job-module.php:114
+msgid "Employment Type"
+msgstr "Employment Type"
+
+#: modules/job/job-module.php:116
+msgid "Full Time"
+msgstr "Full Time"
+
+#: modules/job/job-module.php:117
+msgid "Part Time"
+msgstr "Part Time"
+
+#: modules/job/job-module.php:118
+msgid "Contractor"
+msgstr "Contractor"
+
+#: modules/job/job-module.php:119
+msgid "Temporary"
+msgstr "Temporary"
+
+#: modules/job/job-module.php:120
+msgid "Intern"
+msgstr "Intern"
+
+#: modules/job/job-module.php:121
+msgid "Volunteer"
+msgstr "Volunteer"
+
+#: modules/job/job-module.php:122
+msgid "Per Diem"
+msgstr "Per Diem"
+
+#: modules/job/job-module.php:123
+msgid "Other"
+msgstr "Other"
+
+#: modules/job/job-module.php:128
+msgid "Salary Currency"
+msgstr "Salary Currency"
+
+#: modules/job/job-module.php:132
+msgid "Salary Value"
+msgstr "Salary Value"
+
+#: modules/job/job-module.php:136
+msgid "Salary Unit"
+msgstr "Salary Unit"
+
+#: modules/job/job-module.php:138
+msgid "Hourly"
+msgstr "Hourly"
+
+#: modules/job/job-module.php:139
+msgid "Daily"
+msgstr "Daily"
+
+#: modules/job/job-module.php:140
+msgid "Weekly"
+msgstr "Weekly"
+
+#: modules/job/job-module.php:141
+msgid "Monthly"
+msgstr "Monthly"
+
+#: modules/job/job-module.php:142
+msgid "Yearly"
+msgstr "Yearly"
+
+#: modules/job/job-module.php:148
+msgid "Hiring Organization"
+msgstr "Hiring Organization"
+
+#: modules/job/job-module.php:151
+msgid "Company Name"
+msgstr "Company Name"
+
+#: modules/job/job-module.php:156
+msgid "Company Website"
+msgstr "Company Website"
+
+#: modules/job/job-module.php:161
+msgid "Company Logo URL"
+msgstr "Company Logo URL"
+
+#: modules/job/job-module.php:167
+msgid "Job Location"
+msgstr "LokasiJob Location"
+
+#: modules/job/job-module.php:174
+msgid "Locality"
+msgstr "Locality"
+
+#: modules/job/job-module.php:178
+msgid "Region"
+msgstr "Region"
+
+#: modules/job/job-module.php:182
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: modules/job/job-module.php:186
+msgid "Country"
+msgstr "Country"
+
+#: modules/job/job-module.php:190
+msgid "Remote Job"
+msgstr "Remote Job"
+
+#: modules/job/job-module.php:191
+msgid "Work Form Home"
+msgstr "Work Form Home"
+
+#: modules/job/job-module.php:195 modules/woo/admin/woocommerce-page.php:101
+msgid "Others"
+msgstr "Others"
+
+#: modules/job/job-module.php:198
+msgid "Job Application Form URL"
+msgstr "Job Application Form URL"
+
+#: modules/job/job-module.php:207
+msgid "Job CPT"
+msgstr "Job CPT"
+
+#: modules/team-member/admin/team-member-page.php:18
+#: modules/team-member/admin/team-member-page.php:47
+#: modules/team-member/admin/team-member-page.php:48
+#: modules/team-member/team-member-module.php:48
+msgid "Team Member"
+msgstr "Team Member"
+
+#: modules/team-member/admin/team-member-page.php:37
+#: packages/section/section-factory.php:66
+msgid "Post Type Setup"
+msgstr "Post Type Setup"
+
+#: modules/team-member/admin/team-member-page.php:40
+#: modules/team-member/admin/team-member-page.php:70
+#: modules/team-member/admin/team-member-page.php:96
+#: packages/section/section-factory.php:27
+#: packages/section/section-factory.php:69
+msgid "Name"
+msgstr "Name"
+
+#: modules/team-member/admin/team-member-page.php:41
+#: modules/team-member/admin/team-member-page.php:42
+#: modules/team-member/admin/team-member-page.php:53
+#: modules/team-member/admin/team-member-page.php:54
+#: modules/team-member/team-member-module.php:47
+#: modules/team-member/team-member-module.php:49
+msgid "Team Members"
+msgstr "Team Members"
+
+#: modules/team-member/admin/team-member-page.php:46
+#: modules/team-member/admin/team-member-page.php:75
+#: modules/team-member/admin/team-member-page.php:101
+#: packages/section/section-factory.php:37
+#: packages/section/section-factory.php:80
+msgid "Singular"
+msgstr "Singular"
+
+#: modules/team-member/admin/team-member-page.php:52
+#: modules/team-member/admin/team-member-page.php:80
+#: modules/team-member/admin/team-member-page.php:106
+#: packages/section/section-factory.php:42
+#: packages/section/section-factory.php:86
+msgid "Menu"
+msgstr "Menu"
+
+#: modules/team-member/admin/team-member-page.php:58
+#: modules/team-member/admin/team-member-page.php:85
+#: packages/section/section-factory.php:47
+#: packages/section/section-factory.php:92
+msgid "Slug"
+msgstr "Slug"
+
+#: modules/team-member/admin/team-member-page.php:67
+msgid "First Taxonomy Setup"
+msgstr "First Taxonomy Setup"
+
+#: modules/team-member/admin/team-member-page.php:93
+msgid "Second Taxonomy Setup"
+msgstr "Second Taxonomy Setup"
+
+#: modules/team-member/team-member-module.php:60
+msgid "Team Member CPT"
+msgstr "Team Member CPT"
+
+#: modules/team-member/team-member-module.php:143
+msgid "Member Information"
+msgstr "Member Information"
+
+#: modules/team-member/team-member-module.php:151
+msgid "Member Info"
+msgstr "Member Info"
+
+#: modules/team-member/team-member-module.php:156
+msgid "Social Information"
+msgstr "Social Information"
+
+#: modules/testi/testi-module.php:43 modules/testi/testi-module.php:45
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: modules/testi/testi-module.php:44
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: modules/testi/testi-module.php:49
+msgid "Enter Client Name Here"
+msgstr "Enter Client Name Here"
+
+#: modules/testi/testi-module.php:54
+msgid "Testimonial Information"
+msgstr "Testimonial Information"
+
+#: modules/testi/testi-module.php:57
+msgid "Client Email"
+msgstr "Client Email"
+
+#: modules/testi/testi-module.php:62
+msgid "Client Info"
+msgstr "Client Info"
+
+#: modules/testi/testi-module.php:66
+msgid "Rating"
+msgstr "Rating"
+
+#: modules/testi/testi-module.php:73 modules/testi/testi-module.php:75
+msgid "Testimonial Categories"
+msgstr "Testimonial Categories"
+
+#: modules/testi/testi-module.php:74
+msgid "Testimonial Category"
+msgstr "Testimonial Category"
+
+#: modules/whatsapp/admin/whatsapp-page.php:20
+#: modules/woo/admin/woocommerce-page.php:59
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: modules/whatsapp/admin/whatsapp-page.php:38
+msgid "WhatsApp Setting"
+msgstr "Setting WhatsApp"
+
+#: modules/whatsapp/admin/whatsapp-page.php:41
+msgid "WhatsApp Number"
+msgstr "No. WhatsApp"
+
+#: modules/whatsapp/admin/whatsapp-page.php:42
+msgid "Fill in with the complete WhatsApp number e.g. 6281220003131"
+msgstr "Isi dengan nomor WhatsApp lengkap, misalnya 6281220003131"
+
+#: modules/whatsapp/admin/whatsapp-page.php:46
+msgid "Show Form"
+msgstr "Tampilkan Form"
+
+#: modules/whatsapp/admin/whatsapp-page.php:47
+msgid "Show Popup form before redirect to WhatsApp"
+msgstr "Tampilkan Form Popup sebelum dialihkan ke WhatsApp"
+
+#: modules/whatsapp/admin/whatsapp-page.php:48
+msgid ""
+"You need to create Breakdance Popup to use this function, please read our "
+"documentation"
+msgstr ""
+"Untuk mengaktifkan fungsi ini Anda harus membuat Breakdance Popup, silakan "
+"baca dokumentasi kami"
+
+#: modules/whatsapp/admin/whatsapp-page.php:56
+msgid "Text Template"
+msgstr "Template Teks"
+
+#: modules/whatsapp/admin/whatsapp-page.php:59
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:51
+msgid "Default Text"
+msgstr "Teks Default"
+
+#: modules/whatsapp/admin/whatsapp-page.php:63
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:52
+msgid "Order Text"
+msgstr "Teks Order"
+
+#: modules/whatsapp/admin/whatsapp-page.php:67
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:53
+msgid "Consult Text"
+msgstr "Teks Konsultasi"
+
+#: modules/whatsapp/admin/whatsapp-page.php:71
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:54
+msgid "Product Consult Text"
+msgstr "Teks Konsultasi Produk"
+
+#: modules/whatsapp/admin/whatsapp-page.php:75
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:55
+msgid "Appointment Text"
+msgstr "Teks Janji Temu"
+
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:14
+msgid "WhatsApp URL"
+msgstr "Link WhatsApp"
+
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:22
+msgid "Express WhatsApp"
+msgstr "Express WhatsApp"
+
+#: modules/whatsapp/breakdance/dynamic-fields/whatsapp-url.php:69
+msgid "Product Name"
+msgstr "Nama Produk"
+
+#: modules/whatsapp/breakdance/form-action/whatsapp-form-action.php:20
+msgid "Send WhatsApp"
+msgstr "Send WhatsApp"
+
+#: modules/woo/admin/woocommerce-page.php:20
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: modules/woo/admin/woocommerce-page.php:39
+msgid "Order"
+msgstr "Order"
+
+#: modules/woo/admin/woocommerce-page.php:43
+msgid "Catalog Mode"
+msgstr "Catalog Mode"
+
+#: modules/woo/admin/woocommerce-page.php:44
+msgid "Activate catalog mode"
+msgstr "Activate catalog mode"
+
+#: modules/woo/admin/woocommerce-page.php:48
+msgid "ATC on Product Button Text"
+msgstr "ATC on Product Button Text"
+
+#: modules/woo/admin/woocommerce-page.php:52
+msgid "ATC on Shop Button Text"
+msgstr "ATC on Shop Button Text"
+
+#: modules/woo/admin/woocommerce-page.php:63
+msgid "WA Order Button Text"
+msgstr "WA Order Button Text"
+
+#: modules/woo/admin/woocommerce-page.php:67
+msgid "WhatsApp Order Text"
+msgstr "WhatsApp Order Text"
+
+#: modules/woo/admin/woocommerce-page.php:71
+msgid "WA Consult Button Text"
+msgstr "WA Consult Button Text"
+
+#: modules/woo/admin/woocommerce-page.php:75
+msgid "WhatsApp Consult Text"
+msgstr "WhatsApp Consult Text"
+
+#: modules/woo/admin/woocommerce-page.php:82
+msgid "Order via Marketplace"
+msgstr "Order via Marketplace"
+
+#: modules/woo/admin/woocommerce-page.php:86
+msgid "Order via Shopee Text"
+msgstr "Order via Shopee Text"
+
+#: modules/woo/admin/woocommerce-page.php:90
+msgid "Order via Tokopedia Text"
+msgstr "Order via Tokopedia Text"
+
+#: modules/woo/admin/woocommerce-page.php:94
+msgid "Order via Bukalapak Text"
+msgstr "Order via Bukalapak Text"
+
+#: modules/woo/admin/woocommerce-page.php:105
+msgid "Sale Flash Text"
+msgstr "Sale Flash Text"
+
+#: modules/woo/admin/woocommerce-page.php:109
+msgid "Enable Blok Editor on Product"
+msgstr "Enable Blok Editor on Product"
+
+#: modules/woo/breakdance/dynamic-data/fields/show-whatsapp-on-product.php:15
+msgid "Is Show WhatsApp Button On Product"
+msgstr "Is Show WhatsApp Button On Product"
+
+#: modules/woo/breakdance/dynamic-data/fields/show-whatsapp-on-shop.php:15
+msgid "Is Show WhatsApp Button On Shop"
+msgstr "Is Show WhatsApp Button On Shop"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-is-on-sale.php:15
+msgid "Product on Sale"
+msgstr "Product on Sale"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-order-via-bukalapak-url.php:14
+msgid "Order Via Bukalapak URL"
+msgstr "Order Via Bukalapak URL"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-order-via-shopee-url.php:14
+msgid "Order Via Shopee URL"
+msgstr "Order Via Shopee URL"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-order-via-tokopedia-url.php:14
+msgid "Order Via Tokopedia URL"
+msgstr "Order Via Tokopedia URL"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-order-via-whatsapp.php:15
+msgid "Order Via WhatsApp Text"
+msgstr "Order Via WhatsApp Text"
+
+#: modules/woo/breakdance/dynamic-data/fields/woo-whatsapp-url.php:14
+msgid "Woo WhatsApp URL"
+msgstr "Woo WhatsApp URL"
+
+#: modules/woo/woo-marketplace-fields.php:35
+msgid "Marketplace URL"
+msgstr "Marketplace URL"
+
+#: modules/woo/woo-marketplace-fields.php:63
+msgid "Shopee URL"
+msgstr "Shopee URL"
+
+#: modules/woo/woo-marketplace-fields.php:72
+msgid "Tokopedia URL"
+msgstr "Tokopedia URL"
+
+#: modules/woo/woo-marketplace-fields.php:81
+msgid "Bukalapak URL"
+msgstr "Bukalapak URL"
+
+#: packages/breakdance/dynamic-data/bdd-menu-page-field-image.php:42
+#: packages/breakdance/dynamic-data/bdd-menu-page-field-string.php:42
+#: packages/breakdance/dynamic-data/bdd-menu-page-field-url.php:42
+msgid "Express Option Fields"
+msgstr "Express Option Fields"
+
+#: packages/breakdance/dynamic-data/bdd-meta-field-image.php:42
+#: packages/breakdance/dynamic-data/bdd-meta-field-string.php:42
+#: packages/breakdance/dynamic-data/bdd-meta-field-url.php:43
+msgid "Express Meta Fields"
+msgstr "Express Meta Fields"
+
+#: packages/breakdance/form-action/bfa-store-post.php:25
+#, php-format
+msgid "Store as %s"
+msgstr "Store as %s"
+
+#: packages/breakdance/form-action/bfa-store-post.php:112
+#, php-format
+msgid "%s Submision"
+msgstr "%s Submision"
+
+#: packages/fields/field-renderer.php:191
+#: packages/wp/menu-page/menu-page-field-renderer.php:211
+msgid "Select..."
+msgstr "Pilih..."
+
+#: packages/helper/util.php:497
+msgid "Home"
+msgstr "Home"
+
+#: packages/helper/util.php:550 packages/helper/util.php:555
+#: packages/helper/util.php:560
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: packages/section/section-factory.php:62
+msgid "Description of post type that will be shown in the archive page"
+msgstr "Description of post type that will be shown in the archive page"
+
+#: packages/section/section-factory.php:75
+msgid "Description"
+msgstr "Description"
+
+#: packages/wp/post-type/post-type-factory.php:29
+#, php-format
+msgid "Enter %s Here"
+msgstr "Enter %s Here"
+
+#: packages/wp/post-type/post-type-registrar.php:20
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: packages/wp/post-type/post-type-registrar.php:21
+#: packages/wp/taxonomy/taxonomy-registrar.php:17
+#, php-format
+msgid "Add New %s"
+msgstr "Tambah %s Baru"
+
+#: packages/wp/post-type/post-type-registrar.php:22
+#: packages/wp/taxonomy/taxonomy-registrar.php:19
+#, php-format
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: packages/wp/post-type/post-type-registrar.php:23
+#, php-format
+msgid "New %s"
+msgstr "Tambah %s"
+
+#: packages/wp/post-type/post-type-registrar.php:24
+#: packages/wp/taxonomy/taxonomy-registrar.php:21
+#, php-format
+msgid "All %s"
+msgstr "Semua %s"
+
+#: packages/wp/post-type/post-type-registrar.php:25
+#, php-format
+msgid "View %s"
+msgstr "Tampil %s"
+
+#: packages/wp/post-type/post-type-registrar.php:26
+#: packages/wp/taxonomy/taxonomy-registrar.php:22
+#, php-format
+msgid "Search %s"
+msgstr "Cari %s"
+
+#: packages/wp/post-type/post-type-registrar.php:27
+#, php-format
+msgid "No %s found"
+msgstr "%s tidak ditemukan"
+
+#: packages/wp/post-type/post-type-registrar.php:28
+#, php-format
+msgid "No %s found in the Trash"
+msgstr "%s tidak ditemukan pada Tong Sampah"
+
+#: packages/wp/post-type/post-type-registrar.php:29
+#: packages/wp/taxonomy/taxonomy-registrar.php:24
+#, php-format
+msgid "Parent %s:"
+msgstr "%s Induk:"
+
+#: packages/wp/taxonomy/taxonomy-registrar.php:18
+#, php-format
+msgid "New %s Name"
+msgstr "Nama Baru %s"
+
+#: packages/wp/taxonomy/taxonomy-registrar.php:20
+#, php-format
+msgid "Update %s"
+msgstr "Update %s"
+
+#: packages/wp/taxonomy/taxonomy-registrar.php:23
+#, php-format
+msgid "Parent %s"
+msgstr "%s Induk"
+
+#, php-format
+#~ msgid "%s image"
+#~ msgstr "Gambar %s"
+
+#, php-format
+#~ msgid "Set %s image"
+#~ msgstr "Pasang gambar %s"
+
+#, php-format
+#~ msgid "Remove %s image"
+#~ msgstr "Hapus gambar %s"
+
+#~ msgid "Phone Formatted"
+#~ msgstr "Phone Formatted"
+
+#~ msgid "Contact URL"
+#~ msgstr "Link Kontak"
+
+#~ msgid "Email URL"
+#~ msgstr "Link Email"
+
+#~ msgid "Google Map URL"
+#~ msgstr "Link Google Map"
+
+#, fuzzy
+#~| msgid "Express Contact"
+#~ msgid "Express Jobs"
+#~ msgstr "Express Kontak"
+
+#, fuzzy
+#~| msgid "Address"
+#~ msgid "E-Mail Address"
+#~ msgstr "Alamat"
+
+#~ msgid "Location"
+#~ msgstr "Lokasi"
+
+#~ msgid "To display your map based on place and location"
+#~ msgstr "Untuk menampilkan peta Anda berdasarkan tempat dan lokasi"
+
+#~ msgid "Place"
+#~ msgstr "Tempat"

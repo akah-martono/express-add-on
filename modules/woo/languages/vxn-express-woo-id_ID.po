@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-02-12 12:09+0700\n"
+"PO-Revision-Date: 2023-02-12 12:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/woocommerce-page.php:20
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/woocommerce-page.php:39
+msgid "Order"
+msgstr "Order"
+
+#: admin/woocommerce-page.php:43
+msgid "Catalog Mode"
+msgstr "Mode Katalog"
+
+#: admin/woocommerce-page.php:44
+msgid "Activate catalog mode"
+msgstr "Aktifkan mode katalog"
+
+#: admin/woocommerce-page.php:48
+msgid "ATC on Product Button Text"
+msgstr "Teks tombol ATC pada halaman produk"
+
+#: admin/woocommerce-page.php:52
+msgid "ATC on Shop Button Text"
+msgstr "Teks tombol ATC pada halaman shop"
+
+#: admin/woocommerce-page.php:59
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: admin/woocommerce-page.php:63
+msgid "WA Order Button Text"
+msgstr "Teks pada tombol Order via WA"
+
+#: admin/woocommerce-page.php:67
+msgid "WhatsApp Order Text"
+msgstr "Template order via WA"
+
+#: admin/woocommerce-page.php:71
+msgid "WA Consult Button Text"
+msgstr "Teks pada tombol Konsultasi"
+
+#: admin/woocommerce-page.php:75
+msgid "WhatsApp Consult Text"
+msgstr "Template konsultasi via WA"
+
+#: admin/woocommerce-page.php:82
+msgid "Order via Marketplace"
+msgstr "Order Melalui Marketplace"
+
+#: admin/woocommerce-page.php:86
+msgid "Order via Shopee Text"
+msgstr "Teks order via Shopee"
+
+#: admin/woocommerce-page.php:90
+msgid "Order via Tokopedia Text"
+msgstr "Teks order via Tokopedia"
+
+#: admin/woocommerce-page.php:94
+msgid "Order via Bukalapak Text"
+msgstr "Teks order via Bukalapak"
+
+#: admin/woocommerce-page.php:101
+msgid "Others"
+msgstr "Lainnya"
+
+#: admin/woocommerce-page.php:105
+msgid "Sale Flash Text"
+msgstr "Teks Sale Flash"
+
+#: breakdance/dynamic-data/fields/show-whatsapp-on-product.php:15
+msgid "Is Show WhatsApp Button On Product"
+msgstr "WhatsApp tampil pada halaman produk"
+
+#: breakdance/dynamic-data/fields/show-whatsapp-on-shop.php:15
+msgid "Is Show WhatsApp Button On Shop"
+msgstr "WhatsApp tampil pada halaman shop/toko"
+
+#: breakdance/dynamic-data/fields/woo-is-on-sale.php:15
+msgid "Product on Sale"
+msgstr "Product on Sale"
+
+#: breakdance/dynamic-data/fields/woo-order-via-bukalapak-url.php:14
+msgid "Order Via Bukalapak URL"
+msgstr "Link order melalui Bukalapak"
+
+#: breakdance/dynamic-data/fields/woo-order-via-shopee-url.php:14
+msgid "Order Via Shopee URL"
+msgstr "Link order melalui Shopee"
+
+#: breakdance/dynamic-data/fields/woo-order-via-tokopedia-url.php:14
+msgid "Order Via Tokopedia URL"
+msgstr "Link order melalui Tokopedia"
+
+#: breakdance/dynamic-data/fields/woo-order-via-whatsapp.php:15
+msgid "Order Via WhatsApp Text"
+msgstr "Tulisan Pesan melalui WhatsApp"
+
+#: breakdance/dynamic-data/fields/woo-whatsapp-url.php:14
+msgid "Woo WhatsApp URL"
+msgstr "Link Woo WhatsApp"
+
+#: woo-marketplace-fields.php:35
+msgid "Marketplace URL"
+msgstr "Link Marketplace"
+
+#: woo-marketplace-fields.php:63
+msgid "Shopee URL"
+msgstr "Link Shopee"
+
+#: woo-marketplace-fields.php:72
+msgid "Tokopedia URL"
+msgstr "Link Shopee"
+
+#: woo-marketplace-fields.php:81
+msgid "Bukalapak URL"
+msgstr "Link Bukalapak"
+
+#~ msgid "Order via WhatsApp"
+#~ msgstr "Order Melalui WhatsApp"
+
+#~ msgid "Add WhatsApp button on product page"
+#~ msgstr "Tampilkan tombol WhatsApp pada halaman produk"
+
+#~ msgid "On Shop Page"
+#~ msgstr "Di Halaman Shop"
+
+#~ msgid "Add WhatsApp button on shop page"
+#~ msgstr "Tampilkan tombol WhatsApp pada halaman shop"
+
+#~ msgid "WhatsApp Text Template"
+#~ msgstr "Template Teks WhatsApp"
+
+#~ msgid "Add To Cart Button"
+#~ msgstr "Tombol Add To Cart"
+
+#~ msgid "Add To Cart Text"
+#~ msgstr "Teks Add To Cart"
+
+#~ msgid "Direct Checkout"
+#~ msgstr "Langsung Checkout"
+
+#~ msgid "Activate Direct Checkout"
+#~ msgstr "Aktifkan langsung checkout"
+
+#~ msgid "No Cart"
+#~ msgstr "Tanpa Keranjang"
+
+#~ msgid "Always clear cart before add to cart"
+#~ msgstr "Selalu bersihkan keranjang belanja sebelum pembelian"
+
+#~ msgid "Remove on Shop Page"
+#~ msgstr "Hilangkan dari halaman shop"
+
+#~ msgid "Remove ATC button on shop page"
+#~ msgstr "Hilangkan tombol ATC pada halaman shop/toko"
+
+#~ msgid "Remove on Product Page"
+#~ msgstr "Hilangkan dari halaman produk"
+
+#~ msgid "Remove ATC button on product page"
+#~ msgstr "Remove ATC button on product page"
+
+#~ msgid "Add Bukalapak URL at product registration"
+#~ msgstr "Tambahkan link Bukalapak saat membuat produk"
+
+#~ msgid "Add Tokopedia URL at product registration"
+#~ msgstr "Tambahkan link Tokopedia saat membuat produk"
+
+#~ msgid "Add Shopee URL at product registration"
+#~ msgstr "Tambahkan link Shopee saat membuat produk"

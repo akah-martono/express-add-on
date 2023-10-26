@@ -55,7 +55,12 @@ class Setup_Page_Factory{
             ->add_field((new Text_Field('txt_search_not_found_text'))            
                 ->set_label(__('Search Not Found Text', VXN_EXPRESS_ADDON_DOMAIN))
                 ->set_placeholder('Maaf, hasil pencarian untuk "%s" tidak ditemukan')
-            );
+            )
+            ->add_field((new Checkbox('chk_fix_bd_img_for_lscache'))            
+                ->set_label(__('Fix LiteSpeed Cache Lazyload', VXN_EXPRESS_ADDON_DOMAIN))
+                ->set_text_right(__('Remove line breaks within the image tags', VXN_EXPRESS_ADDON_DOMAIN))
+                ->set_description(__('Enable it when you use LiteSpeed Cache for Lazyload image', VXN_EXPRESS_ADDON_DOMAIN))
+            );            
             
     }    
     

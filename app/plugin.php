@@ -50,6 +50,18 @@ class Plugin{
                 self::set_excerpt_length(Express::Options('vxn_express_setup.txt_excerpt_length'));
             }
 
+            if(Express::Options('vxn_express_setup.chk_fix_bd_img_for_lscache')){
+                add_filter( 'litespeed_buffer_before', function ( $content ) {
+                    preg_match_all('/<img[^>]*>/i', $content, $matches);
+                    foreach ($matches[0] as $match) {
+                        $cleaned_tag = preg_replace("/\s+/", " ", $match);
+                        $cleaned_tag = str_replace(array("\r", "\n"), '', $cleaned_tag);
+                        $content = str_replace($match, $cleaned_tag, $content);
+                    }
+                    return $content;
+                }, 0);
+            }            
+
             add_post_type_support( 'page', 'excerpt' );
             
         },999);

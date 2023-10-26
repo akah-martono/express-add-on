@@ -3,9 +3,9 @@ Contributors: vaksin
 Tags: Breakdance, WhatsApp
 Donate link: https://paypal.me/akah
 Requires at least: 6.0
-Tested up to: 6.2.2
+Tested up to: 6.3.2
 Requires PHP: 8.0
-Stable tag: 1.3.7
+Stable tag: 1.3.8
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -56,6 +56,10 @@ In the search field type “Express Add On Vaksin” and click Search Plugins. Y
 7. Dynamic Data
 
 == Changelog ==
+= 1.3.8 =
+
+* Add option to remove line breaks within the image tags (to fix image lazyload by lscache)
+
 = 1.3.7 =
 
 * Hot fix wa-form.js

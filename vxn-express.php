@@ -3,7 +3,7 @@
  * Plugin Name:       Express Add On
  * Plugin URI: 		  https://github.com/wp-vaksin/vxn-express
  * Description:       Express Add-on for Breakdance website builder, the time saver plugin!
- * Version:           1.3.7
+ * Version:           1.3.8
  * Requires at least: 6.0
  * Requires PHP:      8.0
  * Author:            ExpressWEB

@@ -3,9 +3,9 @@ Contributors: vaksin
 Tags: Breakdance, WhatsApp
 Donate link: https://paypal.me/akah
 Requires at least: 6.0
-Tested up to: 6.3.2
+Tested up to: 6.5.5
 Requires PHP: 8.0
-Stable tag: 1.3.8
+Stable tag: 1.4.0
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -56,6 +56,14 @@ In the search field type “Express Add On Vaksin” and click Search Plugins. Y
 7. Dynamic Data
 
 == Changelog ==
+= 1.4.0 =
+
+* fix 'litespeed_buffer_before' filter 
+
+= 1.3.9 =
+
+* add ability to use 'data-no-lazy' attribute to image tag from parent element for lscache user
+
 = 1.3.8 =
 
 * Add option to remove line breaks within the image tags (to fix image lazyload by lscache)

@@ -66,7 +66,7 @@ use Array_Access;
      */
     public function add_screen( $screen ) {
         if(is_array($screen)){
-            $this->screen = array_merge($this->object_type, $screen);
+            $this->screen = array_merge($this->screen, $screen);
         }else{
             $this->screen[] = $screen;
         }
